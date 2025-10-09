@@ -18,7 +18,8 @@ if __name__ == '__main__':
 
     for op_name in [
         'tuple_join', 'block_join', 
-        'adaptive_join', 'embedding_join']:
+        'adaptive_join', 'embedding_join',
+        'lotus_join']:
         for scenario, ref_name in [
             ('inconsistency', 'inconsistencies.csv'),
             ('inconsistency50names', 'inconsistencies50names.csv'),

@@ -7,6 +7,7 @@ import argparse
 from llmjoin.real.adaptive_join import adaptive_join
 from llmjoin.real.block_join import block_join
 from llmjoin.real.embedding_join import embedding_join
+from llmjoin.real.LOTUS_join import lotus_join
 from llmjoin.real.tuple_join import tuple_join
 import openai
 import pandas
@@ -25,7 +26,8 @@ def run_benchmark(client, df1, df2, predicate, scenario):
     named_ops = [
         # (adaptive_join, 'adaptive_join'), 
         #(block_join, 'block_join'),
-        (embedding_join, 'embedding_join'),
+        # (embedding_join, 'embedding_join'),
+        (lotus_join, 'lotus_join'),
         #(tuple_join, 'tuple_join'),
         ]
         
@@ -47,32 +49,33 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     client = openai.OpenAI(api_key=args.ai_key, timeout=300)
-    model = 'gpt-4'
+    # model = 'gpt-4'
+    model = 'gpt-4.1-nano'
     
-    ads = pandas.read_csv('testdata/ads.csv')
-    searches = pandas.read_csv('testdata/searches.csv')
-    predicate = 'the search matches the offer precisely'
-    run_benchmark(client, ads, searches, predicate, 'ad_matches')
+    # ads = pandas.read_csv('testdata/ads.csv')
+    # searches = pandas.read_csv('testdata/searches.csv')
+    # predicate = 'the search matches the offer precisely'
+    # run_benchmark(client, ads, searches, predicate, 'ad_matches')
+    #
+    # reviews_1 = pandas.read_csv('testdata/reviews_1.csv')
+    # reviews_2 = pandas.read_csv('testdata/reviews_2.csv')
+    # predicate = 'both reviews are positive or both are negative'
+    # run_benchmark(client, reviews_1, reviews_2, predicate, 'same_review')
+    #
+    # emails = pandas.read_csv('testdata/emails.csv')
+    # statements = pandas.read_csv('testdata/statements.csv')
+    # predicate = 'The two texts contradict each other'
+    # run_benchmark(client, statements, emails, predicate, 'inconsistency')
     
-    reviews_1 = pandas.read_csv('testdata/reviews_1.csv')
-    reviews_2 = pandas.read_csv('testdata/reviews_2.csv')
-    predicate = 'both reviews are positive or both are negative'
-    run_benchmark(client, reviews_1, reviews_2, predicate, 'same_review')
-    
-    emails = pandas.read_csv('testdata/emails.csv')
-    statements = pandas.read_csv('testdata/statements.csv')
-    predicate = 'The two texts contradict each other'
-    run_benchmark(client, statements, emails, predicate, 'inconsistency')
-    
-    # for nr_names in [
+    for nr_names in [
         # 50,
-        # 100,
+        100,
         # 150,
         # 200,
         # 250 
-        # ]:
-        # emails = pandas.read_csv(f'testdata/emails{nr_names}names.csv')
-        # statements = pandas.read_csv(f'testdata/statements{nr_names}names.csv')
-        # predicate = 'The two texts contradict each other'
-        # scenario = f'inconsistency{nr_names}names'
-        # run_benchmark(client, statements, emails, predicate, scenario)
+        ]:
+        emails = pandas.read_csv(f'testdata/emails{nr_names}names.csv')
+        statements = pandas.read_csv(f'testdata/statements{nr_names}names.csv')
+        predicate = 'The two texts contradict each other'
+        scenario = f'inconsistency{nr_names}names'
+        run_benchmark(client, statements, emails, predicate, scenario)
