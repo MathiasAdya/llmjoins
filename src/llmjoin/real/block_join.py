@@ -9,7 +9,7 @@ import time
 from llmjoin.common.tuning import optimal_block_size
 
 
-encoder = tiktoken.encoding_for_model('gpt-4')
+encoder = tiktoken.encoding_for_model('gpt-4o')
 #t = 4096
 # Prior
 t = 2000
@@ -160,6 +160,11 @@ def join_two_blocks(client, block_1, block_2, predicate, model):
             
         print(response)
         answer = response.choices[0].message.content
+        # Eliminate all characters except digits, commas, and semicolons
+        answer = ''.join(
+            [c for c in answer \
+             if c.isdigit() or \
+             c in {',',';'}])
         print(f'Answer: {answer}')
         overflow = not (response.choices[0].finish_reason == 'stop')
         print(f'Overflow: {overflow}\n')

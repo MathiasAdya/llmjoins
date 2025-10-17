@@ -8,7 +8,7 @@ import pandas
 import tiktoken
 import typing
 
-encoder = tiktoken.encoding_for_model('gpt-4')
+encoder = tiktoken.encoding_for_model('gpt-4o')
 
 
 def inconsistency_benchmark(names, variant):
@@ -208,8 +208,87 @@ def ads_benchmark():
     pandas.DataFrame(results).to_csv('testdata/ad_matches_search.csv')
 
 
+def entailment_benchmarks():
+    """ Generates benchmark focused on entailment or contradiction. """
+    
+    def generate_ground_truth(annotated_pairs, relationship):
+        """ Generates ground truth for entailment benchmark.
+        
+        Args:
+            annotated_pairs: pairs of sentences to evaluate.
+            relationship: either 'entailment' or 'contradiction'.
+        
+        Returns:
+            Dictionary mapping sentence pairs to whether they join.
+        """
+        sentences_1 = annotated_pairs['text1'].tolist()
+        sentences_2 = annotated_pairs['text2'].tolist()
+        does_join = {}
+        # Set join condition to False by default
+        for sentence_1 in sentences_1:
+            for sentence_2 in sentences_2:
+                key = (sentence_1, sentence_2)
+                does_join[key] = False
+        # Set join condition to True for annotated pairs
+        relevant_pairs = annotated_pairs[
+            annotated_pairs['label_text'] == relationship]
+        for _, row in relevant_pairs.iterrows():
+            key = (row['text1'], row['text2'])
+            does_join[key] = True
+        
+        # Generate data frame with sentence pairs and whether they join
+        ground_truth = []
+        for (text1, text2), joins in does_join.items():
+            ground_truth += [{'text1':text1, 'text2':text2, 'joins':joins}]
+        
+        return pandas.DataFrame(ground_truth)
+    
+    nr_rows = 100
+    all_sentence_pairs = pandas.read_csv('testdata/entailment.csv')
+    sentence_pairs = all_sentence_pairs.iloc[:nr_rows]
+    
+    # Write input tables to disk
+    sentences_1 = sentence_pairs['text1'].tolist()
+    sentences_2 = sentence_pairs['text2'].tolist()
+    pandas.DataFrame({'text':sentences_1}).to_csv('testdata/sentences_1.csv')
+    pandas.DataFrame({'text':sentences_2}).to_csv('testdata/sentences_2.csv')
+    
+    # Generate ground truth for entailment and contradiction
+    entailment_gt = generate_ground_truth(sentence_pairs, 'entailment')
+    contradiction_gt = generate_ground_truth(sentence_pairs, 'contradiction')
+    # Write ground truth to disk
+    entailment_gt.to_csv('testdata/entailment_gt.csv')
+    contradiction_gt.to_csv('testdata/contradiction_gt.csv')
+    
+
+def words_benchmark():
+    """ Generates benchmark focused on matching words. """
+    
+    # Read words from file (first column)
+    words = pandas.read_csv('testdata/words.csv').iloc[:,0]
+    # Select 10 words with uniform random sampling
+    words_1 = words.sample(10, random_state=1).tolist()
+    # Select 1,000 words with uniform random sampling
+    words_2 = words.sample(1000, random_state=2).tolist()
+    # Write words to disk
+    pandas.DataFrame({'text':words_1}).to_csv('testdata/words_1.csv')
+    pandas.DataFrame({'text':words_2}).to_csv('testdata/words_2.csv')
+    # Iterate over word pairs
+    results = []
+    for word_1 in words_1:
+        for word_2 in words_2:
+            # Words join if the first letter is the same
+            joins = (word_1[0] == word_2[0])
+            results += [{'text1':word_1, 'text2':word_2, 'joins':joins}]
+    
+    # Write results to disk
+    pandas.DataFrame(results).to_csv('testdata/words_join.csv')
+
+
 if __name__ == '__main__':
     
     inconsistency_benchmarks()
     movie_benchmarks()
     ads_benchmark()
+    entailment_benchmarks()
+    words_benchmark()
