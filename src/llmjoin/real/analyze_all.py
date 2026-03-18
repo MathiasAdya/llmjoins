@@ -19,20 +19,25 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     op_names = [
-        'tuple_join', 'block_join', 'adaptive_join', 
-        'embedding_join', 'lotus_join']
+        'tuple_join', 
+        # 'block_join', 
+        # 'adaptive_join', 
+        # 'embedding_join', 
+        # 'lotus_join'
+    ]
     scenarios = [
-            ('inconsistency', 'inconsistencies.csv'),
+            ('inconsistencies', 'inconsistencies.csv'),
             # ('inconsistency50names', 'inconsistencies50names.csv'),
             # ('inconsistency100names', 'inconsistencies100names.csv'),
             # ('inconsistency150names', 'inconsistencies150names.csv'),
             # ('inconsistency200names', 'inconsistencies200names.csv'),
             # ('inconsistency250names', 'inconsistencies250names.csv'),
-            ('same_review', 'same_reviews.csv'),
-            ('ad_matches', 'ad_matches_search.csv'),
-            ('entailment', 'entailment_gt.csv'),
-            ('contradiction', 'contradiction_gt.csv'),
-            ('words', 'words_join.csv')]
+            ('same_reviews', 'same_reviews.csv'),
+            # ('ad_matches', 'ad_matches_search.csv'),
+            # ('entailment', 'entailment_gt.csv'),
+            # ('contradiction', 'contradiction_gt.csv'),
+            # ('words', 'words_join.csv')
+    ]
         
     
     all_aggregates = []

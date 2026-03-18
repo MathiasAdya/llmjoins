@@ -1,0 +1,1001 @@
+text1,text2,joins
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,True
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Joe: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,True
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Martin: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,True
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Jane: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,True
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Julia: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,True
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Jeff: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,True
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Victor: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,True
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Bob: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,True
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Alice: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,True
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Rosy: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Joe about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Martin about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jane about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Julia about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Jeff about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Victor about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bob about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Alice about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Rosy about the losses in October 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses in February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/5/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses on 2/7/2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses after January 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses in the first half of February 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses some time in 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses not before the year 2022.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses in 2022 or 2021.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses before 2023.,False
+"Bella: ""I first heard about the losses in February 2022.""",I told Bella about the losses in October 2021.,True
