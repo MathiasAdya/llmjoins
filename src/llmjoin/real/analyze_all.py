@@ -19,25 +19,38 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     op_names = [
-        'tuple_join', 
+        # 'tuple_join', 
         # 'block_join', 
         # 'adaptive_join', 
         # 'embedding_join', 
-        # 'lotus_join'
+        # 'lotus_join',
+        # 'hidden_layer',
+        # 'raw_vector_block_join_join',
+        # 'dsu_block_join',
+        # 'raw_vector_adaptive_join',
+        # 'dsu_adaptive_join'
+        # 'kmeans_adaptive_join'
+        'dsu_block_join',
     ]
     scenarios = [
-            ('inconsistencies', 'inconsistencies.csv'),
+            # ('inconsistency', 'inconsistencies.csv'),
+            # ('shuffled_inconsistency', 'inconsistencies.csv'),
             # ('inconsistency50names', 'inconsistencies50names.csv'),
             # ('inconsistency100names', 'inconsistencies100names.csv'),
             # ('inconsistency150names', 'inconsistencies150names.csv'),
             # ('inconsistency200names', 'inconsistencies200names.csv'),
             # ('inconsistency250names', 'inconsistencies250names.csv'),
-            ('same_reviews', 'same_reviews.csv'),
+            # ('same_review', 'same_reviews.csv'),
+            ('shuffled_same_review', 'same_reviews.csv'),
+            # ('same_semeval2014', 'same_semeval2014.csv'),
+            # ('same_sentiment', 'same_tweets.csv'),
+            # ('same_mams', 'same_mams.csv'),
             # ('ad_matches', 'ad_matches_search.csv'),
+            # ('shuffled_ad_matches', 'ad_matches_search.csv'),
             # ('entailment', 'entailment_gt.csv'),
             # ('contradiction', 'contradiction_gt.csv'),
             # ('words', 'words_join.csv')
-    ]
+        ]
         
     
     all_aggregates = []

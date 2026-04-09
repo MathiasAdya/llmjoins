@@ -9,9 +9,8 @@ from llmjoin.real.block_join import block_join
 # from llmjoin.real.embedding_join import embedding_join
 # from llmjoin.real.LOTUS_join import lotus_join
 from llmjoin.real.tuple_join import tuple_join
-# import openai
+import openai
 import pandas
-from google import genai
 
 
 def run_benchmark(client, df1, df2, predicate, scenario):
@@ -25,11 +24,11 @@ def run_benchmark(client, df1, df2, predicate, scenario):
         scenario: scenario name (used in names of output files).
     """
     named_ops = [
-        # (adaptive_join, 'adaptive_join'), 
+        (adaptive_join, 'adaptive_join'), 
         # (block_join, 'block_join'),
         # (embedding_join, 'embedding_join'),
         # (lotus_join, 'lotus_join'),
-        (tuple_join, 'tuple_join'),
+        # (tuple_join, 'tuple_join'),
         ]
         
     for join_op, op_name in named_ops:
@@ -45,41 +44,49 @@ def run_benchmark(client, df1, df2, predicate, scenario):
 
 if __name__ == '__main__':
     
-
     parser = argparse.ArgumentParser()
-    parser.add_argument('project_id', type=str, help='GCP Project ID')
-    parser.add_argument('location', type=str, help='GCP Location (e.g. us-central1)')
+    parser.add_argument('ai_key', type=str, help='OpenAI access key')
     args = parser.parse_args()
-
-    # parser = argparse.ArgumentParser()
-    # parser.add_argument('ai_key', type=str, help='OpenAI access key')
-    # args = parser.parse_args()
     
-    # client = openai.OpenAI(api_key=args.ai_key, timeout=300)
-    # model = 'gpt-4'
+    client = openai.OpenAI(api_key=args.ai_key)
+    model = 'gpt-4o'
     # model = 'gpt-4.1-mini'
 
-
-    client = genai.Client(vertexai=True, project=args.project_id, location=args.location)
-    model = 'gemini-2.5-flash'
+    # semeval2014_1 = pandas.read_csv('testdata/semeval2014_1.csv')
+    # semeval2014_2 = pandas.read_csv('testdata/semeval2014_2.csv')
+    # predicate = 'both texts discuss the exact same specific aspect and express the same sentiment (positive/negative/neutral) toward that aspect.'
+    # run_benchmark(client, semeval2014_1, semeval2014_2, predicate, 'semeval2014')
+    # print('Ran semeval2014')
     
     # ads = pandas.read_csv('testdata/ads.csv')
     # searches = pandas.read_csv('testdata/searches.csv')
     # predicate = 'the search matches the offer precisely'
-    # run_benchmark(client, ads, searches, predicate, 'ad_matches_search')
+    # run_benchmark(client, ads, searches, predicate, 'ad_matches')
     # print('Ran ad_matches')
-    #
-    reviews_1 = pandas.read_csv('testdata/reviews_1.csv')
-    reviews_2 = pandas.read_csv('testdata/reviews_2.csv')
-    predicate = 'both reviews are positive or both are negative'
-    run_benchmark(client, reviews_1, reviews_2, predicate, 'same_reviews')
-    print('Ran same_review')
-    #
-    # emails = pandas.read_csv('testdata/emails.csv')
-    # statements = pandas.read_csv('testdata/statements.csv')
-    # predicate = 'The two texts contradict each other'
-    # run_benchmark(client, statements, emails, predicate, 'inconsistencies')
-    # print('Ran inconsistency')
+    
+    # reviews_1 = pandas.read_csv('testdata/reviews_1.csv')
+    # reviews_2 = pandas.read_csv('testdata/reviews_2.csv')
+    # predicate = 'both reviews are positive or both are negative'
+    # run_benchmark(client, reviews_1, reviews_2, predicate, 'same_review')
+    # print('Ran same_review')
+
+    # tweets_1 = pandas.read_csv('testdata/tweets_1.csv')
+    # tweets_2 = pandas.read_csv('testdata/tweets_2.csv')
+    # predicate = 'both tweets are positive or both are negative or both are neutral'
+    # run_benchmark(client, tweets_1, tweets_2, predicate, 'same_sentiment')
+    # print('Ran same_sentiment')
+    
+    # mams_1 = pandas.read_csv('testdata/mams_1.csv')
+    # mams_2 = pandas.read_csv('testdata/mams_2.csv')
+    # predicate = 'both texts discuss the exact same specific aspect and express the same sentiment toward that aspect.'
+    # run_benchmark(client, mams_1, mams_2, predicate, 'same_mams')
+    # print('Ran same_mams')
+
+    emails = pandas.read_csv('testdata/emails.csv')
+    statements = pandas.read_csv('testdata/statements.csv')
+    predicate = 'The two texts contradict each other'
+    run_benchmark(client, statements, emails, predicate, 'inconsistency')
+    print('Ran inconsistency')
     
     # sentences_1 = pandas.read_csv('testdata/sentences_1.csv')
     # sentences_2 = pandas.read_csv('testdata/sentences_2.csv')

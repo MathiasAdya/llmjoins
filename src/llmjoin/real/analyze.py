@@ -72,6 +72,7 @@ def analyze_stats(stats):
     tokens_written = stats['tokens_written'].sum()
     gpt4_USD = tokens_read * 0.03/1000 + tokens_written * 0.06/1000
     gpt41mini_USD = tokens_read * 0.4/1000000 + tokens_written * 1.6/1000000
+    gpt4o_USD = tokens_read * 2.50/1000000 + tokens_written * 10/1000000
     text3_USD = (tokens_read + tokens_written) * 0.02/1000000
     total_USD = gpt41mini_USD + text3_USD
     if 'overflow' in stats.columns:
@@ -82,8 +83,10 @@ def analyze_stats(stats):
     print(f'Tokens read:   \t{tokens_read}')
     print(f'Tokens written:\t{tokens_written}')
     print(f'Seconds:       \t{seconds}')
-    print(f'GPT-4 $:       \t{gpt4_USD}')
-    print(f'Text-3 $:       \t{text3_USD}')
+    # print(f'GPT-4.1-mini $:\t{gpt41mini_USD}')
+    # print(f'GPT-4 $:       \t{gpt4_USD}')
+    print(f'GPT-4o $:\t{gpt4o_USD}')
+    # print(f'Text-3 $:       \t{text3_USD}')
     print(f'#Prompts:      \t:{nr_prompts}')
     
     return {
@@ -91,6 +94,7 @@ def analyze_stats(stats):
         'tokens_written': tokens_written,
         'seconds': seconds,
         'gpt4_USD': gpt4_USD,
+        'gpt4o_USD': gpt4o_USD,
         'gpt41mini_USD': gpt41mini_USD,
         'text3_USD': text3_USD,
         'nr_prompts': nr_prompts,
